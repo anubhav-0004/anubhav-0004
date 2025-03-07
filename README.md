@@ -34,10 +34,9 @@ My expertise lies in the **MERN stack**, and I have hands-on experience in devel
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-0004&layout=compact&theme=radical&langs_count=6)
 
-![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=anubhav-0004&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=anubhav-0004&theme=dark)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anubhav-0004&theme=dark)
 
 
 
