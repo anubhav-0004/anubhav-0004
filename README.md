@@ -26,7 +26,7 @@ My expertise lies in the **MERN stack**, and I have hands-on experience in devel
 - Team Collaboration  
 - Effective Communication & Presentation
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-0004&layout=compact&theme=radical&langs_count=10&text_size=30)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-0004&layout=compact&theme=radical&langs_count=10&text_size=30)
 
 ---
 
