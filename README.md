@@ -32,7 +32,7 @@ My expertise lies in the **MERN stack**, and I have hands-on experience in devel
 
 ![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubhav-0004&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-0004&theme=radical&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-0004&layout=compact&theme=radical&langs_count=10&text_size=30)
 
 
 
