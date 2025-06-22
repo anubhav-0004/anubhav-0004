@@ -34,6 +34,10 @@ My expertise lies in the **MERN stack**, and I have hands-on experience in devel
 
 ![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubhav-0004&show_icons=true&theme=radical)  
 
+![GitHub Stats](https://komarev.com/ghpvc/?username=anubhav-0004&label=Profile%20views&color=0e75b6&style=flat)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anubhav-0004&theme=radical)
+
 ---
 
 ## 🛠️ Featured Projects  
